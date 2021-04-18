@@ -1,0 +1,17 @@
+{
+  "name": "ui5-task-ts",
+  "version": "1.0.0",
+  "description": "UI5 Builder TS -> UI5 Class",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ui5-ts-amd": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "Pascal Maximilian Bremer",
+  "license": "MIT"
+}
