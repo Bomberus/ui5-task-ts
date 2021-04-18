@@ -9,6 +9,10 @@
   "dependencies": {
     "ui5-ts-amd": "^0.0.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bomberus/ui5-task-ts"
+  },
   "devDependencies": {},
   "scripts": {
   },
